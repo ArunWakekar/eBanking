@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"d09d477e-cb3a-4f24-b440-e31a7caf23f1","feature":"Login Functionality","scenario":"Valid Login","start":1716573756239,"group":1,"content":"","tags":"","end":1716573762508,"className":"passed"},{"id":"765f2b58-9c27-4ad8-a2b1-4ecdff2b7c44","feature":"Login Functionality","scenario":"Invalid Login","start":1716573762521,"group":1,"content":"","tags":"","end":1716573768842,"className":"passed"},{"id":"4bb421b6-3963-4f7b-8cc0-6a4b42bc85b8","feature":"Transfer the amount","scenario":"Amount transfer","start":1716573744143,"group":1,"content":"","tags":"","end":1716573756178,"className":"failed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});
